@@ -1,4 +1,4 @@
-ackage com.dam.calculatorAAN; 
+package com.dam.calculatorGFC; 
 import org.springframework.stereotype.Service; 
  
 @Service 
