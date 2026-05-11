@@ -30,3 +30,6 @@ jobs:
  
       - name: Compilación 
         run: ./gradlew --no-daemon compileJava
+
+      - name: Pruebas unitarias 
+        run: ./gradlew test --no-daemon
