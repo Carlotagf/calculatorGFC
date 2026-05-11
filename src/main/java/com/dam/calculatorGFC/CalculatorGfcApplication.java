@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CalculatorGfcApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CalculatorGfcApplication.class, args);
-	}
+public static void main(String[] args) {
+SpringApplication.run(CalculatorGfcApplication.class, args);
+}
 
 }
